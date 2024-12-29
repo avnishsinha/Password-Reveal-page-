@@ -50,12 +50,6 @@ To set up and run this project locally:
 
 ---
 
-## 🌐 Live Demo
-
-Check out the live version of the Password Reveal Page here: [Password Reveal Page Live](#) (Update this with your live deployment link.)
-
----
-
 ## 🌟 Future Enhancements
 
 - Add validation for password strength.
